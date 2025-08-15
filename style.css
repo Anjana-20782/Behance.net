@@ -190,7 +190,7 @@ font-family:sans-serif;
 
     width: 300px;
     height: 150px;
-    background-color: rgba(34, 3, 3, 0.947);
+    background-color: rgba(43, 1, 1, 0.945);;
     position: relative;
     right: 110px;
     z-index: 1;
@@ -418,16 +418,214 @@ font-family:sans-serif;
 .third_section{
 
     width: 100%;
-    height: 50vh;
+    height: 70vh;
     /* background-color: blue; */
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    
 }
 
 .third1{
 
-    width: 80%;
-    height: 40vh;
+    width: 85%;
+    height: 50vh;
+    padding-top: 20px;
+    margin-left: 120px;
     /* background-color: green; */
 }
+
+.third1 img{
+
+    width: 100%;
+    height: 50vh;
+    border-radius: 70px;
+}
+
+.third2{
+
+    width: 80%;
+    height: 25vh;
+    background-color: white;
+    border-radius: 40px;
+    margin-left: 170px;
+    position: relative;
+    bottom: 120px;
+     display: flex;
+} 
+
+.third2 .one{
+
+    width: 25%;
+    height: 25vh;
+    /* background-color: blue; */
+   
+   
+}
+
+
+.one h1{
+
+     font-size: 28px;
+    font-weight: 500;
+    height: 80px;
+    color: rgba(99, 13, 13, 0.923);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.one img{
+
+    width: 37px;
+    height: 37px;
+    position: relative;
+    left: 75px;
+    top: 10px;
+    
+}
+
+.one .btn1{
+
+    width: 200px;
+    height: 65px;
+    border: 1.5px solid rgb(136, 133, 133);
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 30px;
+    background-color: white;
+    padding-left: 26px;
+    color: rgb(36, 34, 34);
+
+}
+
+.two{
+
+     width: 40%;
+    height: 25vh;
+    /* background-color: blue; */
+}
+
+.twoimg{
+
+    width: 100%;
+    height: 10vh;
+    /* background-color: green; */
+    display: flex;
+}
+
+
+.two h1{
+
+     font-size: 28px;
+    font-weight: 500;
+    height: 80px;
+    color: rgba(99, 13, 13, 0.923);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.two .btn2{
+
+
+    width: 200px;
+    height: 65px;
+    border: 1.5px solid rgb(136, 133, 133);
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 0px;
+    background-color: white;
+    padding-left: 26px;
+    color: rgb(46, 42, 42);
+}
+
+.im1{
+
+     width: 37px;
+    height: 37px;
+    position: relative;
+    left: 52px;
+    top: 15px;
+}
+
+.btn3{
+
+      width: 200px;
+    height: 65px;
+    border: 1.5px solid rgb(136, 133, 133);
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: white;
+    padding-left: 26px;
+    color: rgb(46, 42, 42);
+}
+
+.im2{
+
+    width: 37px;
+    height: 37px;
+    position: relative; 
+    left: 50px;
+    top: 15px;
+}
+
+.three{
+
+      width: 17%;
+    height: 25vh;
+    /* background-color: blue; */
+
+}
+
+.three h1{
+
+      font-size: 28px;
+    font-weight: 500;
+    height: 80px;
+    color: rgba(99, 13, 13, 0.923);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.three img{
+
+
+     width: 45px;
+    height: 45px;
+    position: relative;
+    left: 52px;
+    top: 15px;
+}
+
+.three .btn4{
+
+      width: 120px;
+    height: 65px;
+    border: 1.5px solid rgb(88, 82, 82);
+    border-radius: 10px;
+    font-size: 29px;
+    font-weight: bold;
+    background-color: white;
+     padding-left: 50px;
+}
+
+.for{
+
+      width: 100px;
+    height: 100px;
+    background-color: rgba(23, 0, 0, 0.8);
+    margin-top: 70px;
+    border-radius: 20px;
+    margin-left: 80px;
+}
+
+.for img{
+
+    width: 60px;
+    height: 60px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
