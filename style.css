@@ -1077,7 +1077,28 @@ display: flex;
 
 .sixth3{
 
-    width: 20%;
-    height: 50vh;
-    /* background-color: red; */
+    width: 25%;
+    height: 60vh;
+    background-color: red;
+    margin-left: 50px;
+}
+
+.sixth4{
+
+    width: 60%;
+    height: 120px;
+    background-color: green;
+    margin-top: 150px;
+}
+
+.foot{
+
+    color: rgb(230, 223, 223);
+    font-size: 23px;
+    font-style: normal;
+    font-family: arial;
+    font-weight: 100;
+    height: 40px;
+  
+   
 }
